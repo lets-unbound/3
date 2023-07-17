@@ -34,7 +34,7 @@ body {
 }
 
 #sectionContent {
-  display: none; /* Hide the section by default */
+  display: block; /* Hide the section by default */
 }
 #sectionContent.open {
   display: block; /* Show the section when the "open" class is applied */
@@ -105,7 +105,7 @@ body {
   color: rgb(0, 0, 0);
   padding: 10px;
   border: none;
-  font-size: 20px;
+  font-size: 18px;
   box-shadow: none;
 }
 .button1 {
@@ -148,7 +148,7 @@ p{
   color: #000;
    
    padding:10px 20px;
-  font-size: 20px;
+  font-size: 18px;
   font-family: sans-serif;
   
    margin-top: 20px;
